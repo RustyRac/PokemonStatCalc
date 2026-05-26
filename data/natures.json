@@ -1,0 +1,126 @@
+{
+  "hardy": {
+    "increase": null,
+    "decrease": null
+  },
+
+  "lonely": {
+    "increase": "attack",
+    "decrease": "defense"
+  },
+
+  "brave": {
+    "increase": "attack",
+    "decrease": "speed"
+  },
+
+  "adamant": {
+    "increase": "attack",
+    "decrease": "special-attack"
+  },
+
+  "naughty": {
+    "increase": "attack",
+    "decrease": "special-defense"
+  },
+
+  "bold": {
+    "increase": "defense",
+    "decrease": "attack"
+  },
+
+  "docile": {
+    "increase": null,
+    "decrease": null
+  },
+
+  "relaxed": {
+    "increase": "defense",
+    "decrease": "speed"
+  },
+
+  "impish": {
+    "increase": "defense",
+    "decrease": "special-attack"
+  },
+
+  "lax": {
+    "increase": "defense",
+    "decrease": "special-defense"
+  },
+
+  "timid": {
+    "increase": "speed",
+    "decrease": "attack"
+  },
+
+  "hasty": {
+    "increase": "speed",
+    "decrease": "defense"
+  },
+
+  "serious": {
+    "increase": null,
+    "decrease": null
+  },
+
+  "jolly": {
+    "increase": "speed",
+    "decrease": "special-attack"
+  },
+
+  "naive": {
+    "increase": "speed",
+    "decrease": "special-defense"
+  },
+
+  "modest": {
+    "increase": "special-attack",
+    "decrease": "attack"
+  },
+
+  "mild": {
+    "increase": "special-attack",
+    "decrease": "defense"
+  },
+
+  "muiet": {
+    "increase": "special-attack",
+    "decrease": "speed"
+  },
+
+  "bashful": {
+    "increase": null,
+    "decrease": null
+  },
+
+  "rash": {
+    "increase": "special-attack",
+    "decrease": "special-defense"
+  },
+
+  "calm": {
+    "increase": "special-defense",
+    "decrease": "attack"
+  },
+
+  "gentle": {
+    "increase": "special-defense",
+    "decrease": "defense"
+  },
+
+  "sassy": {
+    "increase": "special-defense",
+    "decrease": "speed"
+  },
+
+  "careful": {
+    "increase": "special-defense",
+    "decrease": "special-attack"
+  },
+
+  "quirky": {
+    "increase": null,
+    "decrease": null
+  }
+}
