@@ -76,3 +76,26 @@ python main.py
    ├──requirements.txt
    └── README.md
 ```
+## Tests
+
+Pytest:
+```
+pytest
+```
+
+Pytest specific file:
+```
+pytest tests/test_klasy.py
+```
+
+## Code Quality
+
+### Pylint:
+```
+pylint --disable=C,R src/ tests/ main.py
+```
+
+### Flake8:
+```
+flake8 src/ tests/ main.py
+```
