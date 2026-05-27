@@ -42,7 +42,7 @@ class TestCreatePokemonMenu:
 
         called = False
 
-        def fake_build():
+        def fake_build(*args, **kwargs):
             nonlocal called
             called = True
 
@@ -66,7 +66,7 @@ class TestLoadPokemonMenu:
 
         called = False
 
-        def fake_load():
+        def fake_load(*args, **kwargs):
             nonlocal called
             called = True
 
